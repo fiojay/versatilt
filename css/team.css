@@ -1,0 +1,62 @@
+
+#intro {
+	text-align: center;
+	padding: 110px 0px 50px 0px;
+	margin: 0px 20% 0 20%;
+	line-height: 1.5;
+}
+
+#bios {
+	text-align: center;
+}
+
+#bios h1 {
+	font-size: 18px;
+}
+
+#bios h2 {
+	padding: 8px 0px 15px 0px;
+	color: #7e7e7e;
+}
+
+#bios ul {
+	position: relative;
+	left: 15px;
+	list-style: none;
+}
+
+#bios ul li {
+	display: inline-block;
+	margin: 0 30px 0 0;
+	padding: 50px 0px 25px 0px;
+	font-size: 15px;
+}
+
+.pic {
+	height: 175px;
+	width: 175px;
+	/*background-image: url("http://placehold.it/175x175");*/
+	border-radius: 50%;
+}
+
+.carly {
+	background-image: url("../img/carly.png");
+}
+
+.rodrigo {
+	background-image: url("../img/rodrigo.png");
+}
+
+.fiona {
+	background-image: url("../img/fiona.png");
+}
+
+.bowei {
+	background-image: url("../img/bowei.png");
+}
+
+.jordan {
+	background-image: url("../img/jordan.png");
+}
+
+

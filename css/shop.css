@@ -1,0 +1,38 @@
+/*
+.wrapper {
+	text-align: center;
+	margin-top: 85px;
+	padding-bottom: 25px;
+}
+
+.wrapper h1 {
+	position: absolute;
+	padding: 125px 0px 0px 15px;
+	display: inline-block;
+	font-size: 12px;
+	text-transform: uppercase;
+}
+
+.wrapper h1:hover {
+	cursor: pointer;
+}
+
+
+.hr {
+	width: 75%;
+	color: #7e7e7e;
+}
+*/
+
+#coming-soon {
+	text-align: center;
+	padding-top: 200px;
+	font-size: 45px;
+	text-transform: uppercase;
+}
+
+img {
+	padding-top: 50px;
+	height: 150px;
+	width: auto;
+}

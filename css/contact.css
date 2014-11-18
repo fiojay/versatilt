@@ -1,0 +1,27 @@
+
+/*.wrapper {
+	display: inline-block;
+}*/
+
+.pic {
+	margin: 100px 0 0 100px;
+	height: 450px;
+	width: 500px;
+	/*float: left;*/
+	background-image: url("../img/map.png");
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.info {
+	position: relative;
+	top: -400px;
+	padding: 100px 200px 0 0;
+	text-transform: uppercase;
+	float:right;
+	height: 100px;
+	width: 350px;
+	line-height: 1.3;
+	background-color: #fff;
+	opacity: .8;
+}
